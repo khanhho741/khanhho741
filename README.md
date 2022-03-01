@@ -107,5 +107,5 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank">
   <img src="svg/khanh741.svg" width="1200" alt="Click to see the source" />
-</a>
+</a> 
 
