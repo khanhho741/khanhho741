@@ -70,26 +70,26 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">🤖 Find Me 🤖</h2>
+<h2 align="center">🤖  Find Me  🤖</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://khanhho741.com" target="blank">
-    <img src="https://img.icons8.com/dusk/64/000000/son-goku.png" alt="khanhho741-songoku"/>
+  <a href="https://twitter.com/khanhho741" target="blank">
+    <img src="https://img.icons8.com/dusk/100/000000/son-goku.png" alt="khanhho741-songoku"/>
   </a>
-  <a href="https://facebook.com/khanhho741" target="blank">
+  <a href="https://www.facebook.com/Narutocunung/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khanhho741-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/khanhho741Official" target="blank">
+  <a href="https://www.youtube.com/channel/UC7NwxvTUhlKll3OU4yLZ-GA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="khanhho741-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/khanhho741" target="blank">
+  <a href="https://www.linkedin.com/in/h%E1%BB%93-khanh-5678a9228/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhho741-linkedin" />
   </a>
-  <a href="https://instagram.com/khanhho741" target="blank">
+  <a href="https://www.instagram.com/khanhho741/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="khanhho741-instagram" />
   </a>
-  <a href="mailto:khanhho741.official@gmail.com" target="top">
+  <a href="mailto:khanhho741@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhho741-email" />
   </a>
 </div>
