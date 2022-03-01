@@ -61,10 +61,11 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <a href="#" title="khanhho741">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhho741&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fcf67d&text_color=ffffff&icon_color=fcf67d&bg_color=20232a&langs_count=8&layout=compact&border_color=fcf67d&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhho741&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=F7EF8A&text_color=ffffff&icon_color=F7EF8A&bg_color=260000&langs_count=8&layout=compact&border_color=F7EF8A&hide_border=true" />
   </a>
   <a href="#" title="khanhho741">
-<img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=khanhho741&show_icons=true&theme=great-gatsby&border_color=fcf67d&hide_border=true" />  </a>
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=khanhho741&show_icons=true&theme=maroongold&border_color=F7EF8A&hide_border=true" />
+  </a>
 </div>
 
 <br>
