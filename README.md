@@ -110,5 +110,5 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="#" target="_blank">
-  <img src="images/logo-khanhho741-transparent-bg-192x192" width="500" height="500"  alt="Nyx" />
+  <img width="500" height="500" align="center" src="images/logo-khanhho741-transparent-bg-192x192"  alt="Nyx" />
 </a>
