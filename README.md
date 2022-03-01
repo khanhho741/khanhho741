@@ -109,6 +109,8 @@ Here are some ideas to get you started:
   <img src="svg/khanh741.svg" width="1200" alt="Click to see the source" />
 </a> 
 
-<a href="#" target="_blank" align="center">
+<div  align="center">
+<a href="#" target="_blank">
   <img  src="images/logo-khanhho741-transparent-bg-192x192.png"  alt="Nyx" />
 </a>
+ </div>
