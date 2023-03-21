@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://twitter.com/khanhho741" target="blank">
-    <img src="https://img.icons8.com/dusk/100/000000/son-goku.png" alt="khanhho741-songoku"/>
+    <img src="https://icons8.com/icon/eeQY_dRSUIMV/twitter-circled.png" alt="khanhho741-twitter"/>
   </a>
   <a href="https://www.facebook.com/Narutocunung/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khanhho741-facebook" />
