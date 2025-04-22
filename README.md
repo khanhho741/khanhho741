@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚔️ Technologies and Tools ⚔️</h2>
 <br>
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -53,6 +52,12 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub%20Actions-282C34?logo=github-actions&logoColor=2088FF" alt="GitHub Actions logo" title="CI/CD with GitHub Actions" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" alt="AWS logo" title="Amazon Web Services" height="25" /></span>
+
 
 <br>
 
