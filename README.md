@@ -106,8 +106,4 @@ Here are some ideas to get you started:
 </div>
 
 
-<div  align="center">
-<a href="#" target="_blank">
-  <img  src="images/logo-khanhho741-transparent-bg-192x192.png"  alt="Nyx" />
-</a>
- </div>
+
