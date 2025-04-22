@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
