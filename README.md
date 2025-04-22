@@ -55,6 +55,17 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/GitHub%20Actions-282C34?logo=github-actions&logoColor=2088FF" alt="GitHub Actions logo" title="CI/CD with GitHub Actions" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" alt="AWS logo" title="Amazon Web Services" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/EC2-282C34?logo=amazon-aws&logoColor=FF9900" alt="AWS EC2 logo" title="AWS EC2" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CI/CD-282C34?logo=git&logoColor=00C7B7" alt="CI/CD logo" title="CI/CD" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab CI/CD" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins CI/CD" height="25" /></span>
+
 
 
 <br>
